@@ -17,9 +17,7 @@ Additionaly, topic modeling will be incorporated to identify patterns and recurr
 
 ## EDA
 
-## Feature Engineering
-
 ## Modeling
 
-## Feature Selection
+## Evaluation
 
