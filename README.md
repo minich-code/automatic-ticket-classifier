@@ -1,6 +1,4 @@
 # Automatic Ticket Classifier
-Customer Complaint Classification &amp; Topic Modeling
-
 ## Overview
 Customer complaints are a critical indicator of service quality for financial institutions. Unresolved or mismanaged complaints can lead to customer dissatisfaction, churn, and reputational damage. Therefore, this project aims to develop an automated ticket classification model that streamlines complaint handling, ensuring timely resolution, and enhanced customer experience.
 
