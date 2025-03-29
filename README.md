@@ -49,3 +49,9 @@ Visualization of topic clusters using NMF and LDA topic modeling.
 ## Evaluation & Optimization
 
 Comparing models and selecting the best-performing classifier.
+
+Best Model: BiLSTM (Highest accuracy, precision, and recall)
+
+![BiLSTM Classification Report](/images/BiLSTM%20Classification%20Report.png)
+
+![BiLSTM Confusion Matrix](/images/BiLSTM%20Confusion%20Matrix.png)
