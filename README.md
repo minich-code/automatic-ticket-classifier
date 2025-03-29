@@ -22,20 +22,26 @@ The dataset, contains unstructured text data related to customer complaints. It 
 ## Data Preprocessing
 Loading and cleaning the data.
 
-Tokenization, stopword removal, and text normalization.
-
 Handling missing values and duplicates.
 
 ## EDA
-Complaint distribution analysis to understand data imbalance.
+Complaint distributions across categories
+
+
+## Text Preprocessing
+Tokenization, stopword removal, and text normalization.
 
 Word cloud generation to identify common terms.
 
-Visualization of topic clusters using LDA topic modeling.
+![Most Frequent Words in Complaints](/automatic-ticket-classifier/images/Most%20Frequent%20Words%20in%20Complaints.png)
+
 
 ## Topic Modeling (Unsupervised Learning)
 
 Applied Latent Dirichlet Allocation (LDA) to group complaints into key themes.
+
+Visualization of topic clusters using NMF and LDA topic modeling.
+![Distribution of Complaints by Topic (NMF & LDA)](/automatic-ticket-classifier/images/Distribution%20of%20Complaints%20by%20Topic%20(NMF%20&%20LDA).png)
 
 ## Supervised Learning Model
 
