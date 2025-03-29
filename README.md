@@ -42,7 +42,7 @@ Applied Latent Dirichlet Allocation (LDA) to group complaints into key themes.
 
 Visualization of topic clusters using NMF and LDA topic modeling.
 
-![Distribution of Complaints by Topic (NMF & LDA)](/automatic-ticket-classifier/images/Distribution%20of%20Complaints%20by%20Topic%20(NMF%20&%20LDA).png)
+![Distribution of Complaints by Topic (NMF & LDA)](/images/Distribution%20of%20Complaints%20by%20Topic%20(NMF%20&%20LDA).png)
 
 ## Supervised Learning Model
 
