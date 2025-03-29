@@ -28,7 +28,7 @@ Handling missing values and duplicates.
 Complaint distributions across categories
 
 
-## Text Preprocessing
+### Text Preprocessing
 Tokenization, stopword removal, and text normalization.
 
 Word cloud generation to identify common terms.
