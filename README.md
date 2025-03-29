@@ -33,7 +33,7 @@ Tokenization, stopword removal, and text normalization.
 
 Word cloud generation to identify common terms.
 
-![Most Frequent Words in Complaints](/automatic-ticket-classifier/images/Most%20Frequent%20Words%20in%20Complaints.png)
+![Most Frequent Words in Complaints](/images/Most%20Frequent%20Words%20in%20Complaints.png)
 
 
 ## Topic Modeling (Unsupervised Learning)
