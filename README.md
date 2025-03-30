@@ -1,4 +1,5 @@
 
+![Alt Text](images/topic_modeling.png)
 # Business Understanding
 Business Understanding In the financial sector, customer complaints serve as a crucial source of insight into potential issues with products and services. Addressing these complaints efficiently not only minimizes customer dissatisfaction but also fosters loyalty and enhances the company’s reputation. However, financial institutions offering multiple services—such as credit cards, banking, and mortgage/loan services—receive a vast number of complaints daily.
 
@@ -32,9 +33,13 @@ We explored two topic modeling techniques:
 - **Non-Negative Matrix Factorization (NMF):** A linear algebra-based technique that decomposes the document-term matrix into topic distributions.
 - **Latent Dirichlet Allocation (LDA):** A probabilistic model that assigns words to topics based on a distributional approach.
 
-### Topic allocation using LDA and NMF 
+### Topic allocation using NMF 
 ![Alt Text](images/NMF_topics.png)
+
+### Topic allocation using LDA
 ![Alt Text](images/LDA_topics.png)
+
+# Topic Distribution between LDA and NMF 
 ![Alt Text](images/complaints_distributions.png)
 
 ### 3. Supervised Classification
